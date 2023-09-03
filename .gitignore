@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ECS_currency_system/Library
+ECS_currency_system/Packages
+ECS_currency_system/Temp
+ECS_currency_system/Logs
+ECS_currency_system/ProjectSettings
+ECS_currency_system/UserSettings
